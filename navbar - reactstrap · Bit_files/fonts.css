@@ -1,0 +1,51 @@
+/* DEPRECATED - TO DELETE THIS FILE!!!  */
+
+/* @font-face {
+  font-family: "CircularProBook";
+  src: url(/assets/fonts/CircularPro-Book.otf);
+} */
+
+/* headlines font */
+@font-face {
+  font-family: "CircularProBlack";
+  src: url(/assets/fonts/CircularPro-Black.otf);
+}
+
+/* headlines regular +bold */
+@font-face {
+  font-family: "CircularProBold";
+  src: url(/assets/fonts/CircularPro-Bold.otf);
+}
+
+/* headlines regular +semi-bold */
+@font-face {
+  font-family: "CircularProMedium";
+  src: url(/assets/fonts/CircularPro-Medium.otf);
+}
+
+/* headlines font */
+@font-face {
+  font-style: italic;
+  font-family: "CircularProBlack";
+  src: url(/assets/fonts/CircularPro-BlackItalic.otf);
+}
+
+/* headlines regular +bold */
+@font-face {
+  font-style: italic;
+  font-family: "CircularProBold";
+  src: url(/assets/fonts/CircularPro-BoldItalic.otf);
+}
+
+/* headlines regular +semi-bold */
+@font-face {
+  font-style: italic;
+  font-family: "CircularProMedium";
+  src: url(/assets/fonts/CircularPro-MediumItalic.otf);
+}
+
+/* @font-face {
+  font-style: italic;
+  font-family: "CircularProBook";
+  src: url(/assets/fonts/lineto-circular-bookItalic.woff2);
+} */

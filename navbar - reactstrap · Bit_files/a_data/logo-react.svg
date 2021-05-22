@@ -1,0 +1,10 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 24 24" enable-background="new 0 0 24 24">
+<g id="react-rings">
+	<ellipse fill="none" stroke="#E5E5E5" stroke-miterlimit="10" cx="12" cy="12" rx="11.5" ry="5.5"/>
+	
+		<ellipse transform="matrix(0.866 -0.5 0.5 0.866 -4.3923 7.6077)" fill="none" stroke="#E5E5E5" stroke-miterlimit="10" cx="12" cy="12" rx="5.5" ry="11.5"/>
+	
+		<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -4.3923 16.3923)" fill="none" stroke="#E5E5E5" stroke-miterlimit="10" cx="12" cy="12" rx="11.5" ry="5.5"/>
+</g>
+<circle id="react-dot" fill="#E5E5E5" cx="12" cy="12" r="3"/>
+</svg>
